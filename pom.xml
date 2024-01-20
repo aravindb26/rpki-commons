@@ -65,7 +65,7 @@
         <dependency>
             <groupId>net.sf.saxon</groupId>
             <artifactId>Saxon-HE</artifactId>
-            <version>10.6</version>
+            <version>10.9</version>
         </dependency>
 
         <dependency>
